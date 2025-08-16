@@ -1,6 +1,8 @@
 # DGLMExtPois
 Double Generalized Linear Models Extending Poisson Regression Use glm.hP And glm.CMP (DGLMExtPois) With (In) R Software
 
+https://www.youtube.com/watch?v=5MaoSA0wt4M
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
